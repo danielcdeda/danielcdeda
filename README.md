@@ -1,6 +1,6 @@
 <h1 align="center"}> Olá, pessoal! Eu sou Daniel! 👋 </h1>
 
-<p>Iniciante na área de tecnologia e graduado na área de Economia, hoje busco aperfeiçoar meu conhecimento em desenvolvimento web!</p>
+<p>Entusiasta na área de tecnologia e graduado na área de Economia, hoje busco aperfeiçoar meu conhecimento em desenvolvimento web!</p>
 <br>
 <div align="center">
 <img display="inline-block" align="center" alt="dan-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcdeda&langs_count=8)](https://github.com/danielcdeda/github-readme-stats">

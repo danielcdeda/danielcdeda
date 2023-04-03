@@ -7,6 +7,7 @@
 - HTML
 - CSS
 - JavaScript
+- Bootstrap & JQuery
 
 <table align="center">
  <tr>

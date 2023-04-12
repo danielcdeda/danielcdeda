@@ -2,12 +2,13 @@
 
 <p>Entusiasta na área de tecnologia e graduado na área de Economia, hoje estudo buscando aperfeiçoar o meu conhecimento em desenvolvimento web! </p>
 <br>
-👩🏻‍💻 Algumas tecnologias que domino:
+👩🏻‍💻 Algumas tecnologias que utilizo:
 
 - HTML
 - CSS
 - JavaScript
 - Bootstrap & JQuery
+- NodeJS
 
 <table align="center">
  <tr>

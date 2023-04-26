@@ -9,6 +9,7 @@
 - JavaScript
 - Bootstrap & JQuery
 - NodeJS
+- GIT
 
 <table align="center">
  <tr>

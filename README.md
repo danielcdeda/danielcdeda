@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7933F7&width=435&lines=Ol%C3%A1%2C+eu+sou+Daniel!+;Um+desenvolvedor+web+full+stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7933F7&width=435&lines=Ol%C3%A1%2C+eu+sou+Daniel!+;Um+desenvolvedor+web+c:)](https://git.io/typing-svg)
 
 <p>Entusiasta na área de tecnologia e graduado na área de Economia, hoje estudo buscando aperfeiçoar o meu conhecimento em desenvolvimento web! </p>
 <br>

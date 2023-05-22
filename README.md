@@ -10,7 +10,7 @@
 - Bootstrap & JQuery
 - NodeJS
 - GIT
-- SQL / MongoDB / Monhgoose
+- SQL / MongoDB / Mongoose
 
 <table align="center">
  <tr>

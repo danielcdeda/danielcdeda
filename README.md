@@ -11,6 +11,7 @@
 - NodeJS
 - GIT
 - SQL / MongoDB / Mongoose
+- React
 
 <table align="center">
  <tr>

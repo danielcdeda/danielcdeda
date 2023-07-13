@@ -16,10 +16,10 @@
 <table align="center">
  <tr>
       <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=danielcdeda&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=great-gatsby" />
+      <img src="https://github-readme-stats.vercel.app/api?username=danielcdeda&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=dark" />
     </td>
       <td>
-       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danielcdeda&show_icons=true&locale=en&layout=compact&theme=great-gatsby"/>
+       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danielcdeda&show_icons=true&locale=en&layout=compact&theme=dark"/>
     </td>
 <br>
 </table>
